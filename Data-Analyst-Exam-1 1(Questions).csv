@@ -1,0 +1,25 @@
+,You are the data analyst of a luxury car dealership. You were assigned with the following tasks:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,What's the most popular car manufacturer?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"What's the most popular manufacturing country (Refer to ""Manufacturing country"" sheet)?",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,What's the least popular color for cars?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,What's the average price per owner?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Car,Year,KM Driven,Color,Transimission,Owner,Price (USD),,1,Get Car Manufactor,Get each unique value,Count,Sort,,,2,Get Country,Get each unique value,Count,,3,Trim Spaces,Get Unique Values,Count,Sort,,,4,Sort,,Make money value a number value,Take Average,
+,BMW X5,2012,342358,White,Automatic,1st owner,$15400,,,BMW,BMW,7,BMW,7,,,Germany,Germany,11,,,White,White,6,Yellow,1,,,1st owner,$15400,15400,1st owner,36513.66667
+,Audi A3,2017,130000,Red,Manual,2nd owner,$24321,,,Audi,Audi,2,Lexus,3,,,Germany,Japan,3,,,Red,Red,4,Blue,3,,,1st owner,$42000,42000,2nd owner,30718
+,Mercedes S-Class,2020,92450,Black,Automatic,3rd owner,$102342,,,Mercedes,Mercedes,2,Audi,2,,,Germany,USA,2,,,Black,Black,4,Red,4,,,1st owner,$45000,45000,3rd owner,63746.33333
+,BMW X5,2020,76240,White,Automatic,2nd owner,$55272,,,BMW,Lexus,3,Mercedes,2,,,Germany,Sweden,1,,,White,Blue,3,Black,4,,,1st owner,$52432,52432,4th owner,22520
+,BMW X3,2021,17283,White,Manual,1st owner,$42000,,,BMW,Tesla,1,Tesla,1,,,Germany,UK,1,,,White,Yellow,1,White,6,,,1st owner,$23250,23250,,
+,Lexus RX350,2020,98312,Red,Automatic,3rd owner,$51292,,,Lexus,Volvo,1,Volvo,1,,,Japan,,,,,Red,,,,,,,1st owner,$41000,41000,,
+,BMW X3,2018,156784,Blue,Manual,3rd owner,$37605,,,BMW,Cadillac,1,Cadillac,1,,,Germany,,,,,Blue,,,,,,,2nd owner,$24321,24321,,
+,BMW X5,2019,52034,Blue ,Automatic,1st owner,$45000,,,BMW,Jaguar,1,Jaguar,1,,,Germany,,,,,Blue,,,,,,,2nd owner,$55272,55272,,
+,BMW 3 Series,2011,205204,Red,Automatic,2nd owner,$13241,,,BMW,,,,,,,Germany,,,,,Red,,,,,,,2nd owner,$13241,13241,,
+,Mercedes S-Class,2014,152985,Black,Automatic,2nd owner,$49344,,,Mercedes,,,,,,,Germany,,,,,Black,,,,,,,2nd owner,$49344,49344,,
+,Tesla Model 3,2018,76429,Yellow,Automatic,1st owner,$52432,,,Tesla,,,,,,,USA,,,,,Yellow,,,,,,,2nd owner,$17452,17452,,
+,Volvo XC90,2013,254028, Black,Manual,2nd owner,$17452,,,Volvo,,,,,,,Sweden,,,,,Black,,,,,,,2nd owner,$32420,32420,,
+,Audi Q7,2014,45832,White,Manual,1st owner,$23250,,,Audi,,,,,,,Germany,,,,,White,,,,,,,2nd owner,$18454,18454,,
+,Cadillac XT5,2018,67591,Blue,Automatic,2nd owner,$32420,,,Cadillac,,,,,,,USA,,,,,Blue,,,,,,,2nd owner,$35240,35240,,
+,Jaguar XF,2013,85320,White,Automatic,2nd owner,$18454,,,Jaguar,,,,,,,UK,,,,,White,,,,,,,3rd owner,$102342,102342,,
+,Lexus RX350,2016,5000,White,Automatic,1st owner,$41000,,,Lexus,,,,,,,Japan,,,,,White,,,,,,,3rd owner,$51292,51292,,
+,BMW 428i,2017,92450,Red,Manual,2nd owner,$35240,,,BMW,,,,,,,Germany,,,,,Red,,,,,,,3rd owner,$37605,37605,,
+,Lexus RX350,2015,130000,Black,Automatic,4th owner,$22520,,,Lexus,,,,,,,Japan,,,,,Black,,,,,,,4th owner,$22520,22520,,
