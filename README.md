@@ -16,4 +16,4 @@ To demonstrate how Excel can be used for Data Analysis
   - =SORTBY(A2:A33,B2:B33,-1)
   - The teams were sorted by divisions
 # 6. Sort the win column from most to least
-  - 
+  - =SORT(B2:B34,1,-1)
